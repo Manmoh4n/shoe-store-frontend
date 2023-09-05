@@ -1,15 +1,40 @@
+Please Visit my Site : https://shoe-store-frontend-two.vercel.app/
+
+Here are the Some SnapShot of my Project
+
+Home Page
+
+<img width="262" alt="image" src="https://github.com/Manmoh4n/shoe-store-frontend/assets/90148527/682105f8-b009-4f5c-8d26-668eb9ed38e8">
+
+
+Select Item Page
+
+<img width="261" alt="image" src="https://github.com/Manmoh4n/shoe-store-frontend/assets/90148527/93bd0468-0fbd-461e-9f43-d5c3595ebfe5">
+
+Card Page
+
+<img width="497" alt="image" src="https://github.com/Manmoh4n/shoe-store-frontend/assets/90148527/8cc72b59-ca33-446e-a827-2eab28dd24f0">
+
+Payment Page
+
+<img width="680" alt="image" src="https://github.com/Manmoh4n/shoe-store-frontend/assets/90148527/5206489c-0af1-48f9-8b2c-369d27677172">
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server and then frontend part:
 
 ```bash
+cd frontend
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
+cd backend
+npm run develop
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
